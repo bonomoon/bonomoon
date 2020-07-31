@@ -18,6 +18,10 @@ Here are some ideas to get you started:
  Hi, there👋. Welcome to my Github. My name is Bong-oh, Moon from South Korea. I am studying undergraduate of Software-engineering and working as AWS Educate Student Ambassador at Jeonbuk National University in South Korea. I like to study overall software technology, framework and computer science. I love PS(Problem Solving)!
 <!-- Currently, I'm interested in web or application development, especially front-end development such as React or React Native.  -->
 
+### Interest
+- React Native
+- React
+
 ### 📫 How to reach me
 
 ### 📃 My Public Github Stats
