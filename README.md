@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 -->
 
  Hi, there👋. Welcome to my Github. My name is Bong-oh, Moon from South Korea. I am studying undergraduate of Software-engineering and working as AWS Educate Student Ambassador at Jeonbuk National University in South Korea. I like to study overall software technology, framework and computer science. I love PS(Problem Solving)!
+ 
+ I understand the software development process well and like to focus on separating the interests of the design/development process and implementing the service from the user's perspective when I'm working on a project.
+ 
+ I was able to broaden my horizons and get various motifs by experiencing technologies and implementing services in many projects. I have been dealing with Mobile/Web Front-end (ex. React Native, React) a lot these days, and I want to get a chance to learn and grow myself more through this opportunity.
+
 <!-- Currently, I'm interested in web or application development, especially front-end development such as React or React Native.  -->
 
 ### 🔭 I'm Currently interested in
