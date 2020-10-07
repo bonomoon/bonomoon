@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- Hi, there👋. Welcome to my Github. My name is Bong-oh, Moon from South Korea. I am studying undergraduate of Software-engineering and working as AWS Educate Student Ambassador at Jeonbuk National University in South Korea. I like to study overall software technology, framework and computer science. I love PS(Problem Solving)!
+ Hi, there👋. Welcome to my Github. My name is Bong-oh, Moon from South Korea. I am studying undergraduate of Software Engineering and working as AWS Educate Student Ambassador at Jeonbuk National University in South Korea. I like to study overall software technology, framework and computer science. I love PS(Problem Solving)!
  
  I understand the software development process well and like to focus on separating the interests of the design/development process and implementing the service from the user's perspective when I'm working on a project.
  
