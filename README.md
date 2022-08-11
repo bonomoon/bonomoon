@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- Hi, there👋. Welcome to my Github. My name is Bong-oh, Moon from South Korea. I am studying undergraduate of Software Engineering at Jeonbuk National University in South Korea. I like to study overall software technology, framework and computer science. I love PS(Problem Solving)!
- 
- I understand the software development process well and like to focus on separating the interests of the design/development process and implementing the service from the user's perspective when I'm working on a project.
+ Hi, there👋. Welcome to my Github. My name is Bong-oh, Moon from Republic of Korea. I am studying undergraduate of Software Engineering at Jeonbuk National University, Republic of Korea. I like to study overall software technology, framework and computer science.
  
  I was able to broaden my horizons and get various motifs by experiencing technologies and implementing services in many projects. I have been dealing with Mobile/Web Front-end (ex. React Native, React, Vue) and Back-end(ex. Spring) a lot these days, and I want to get a chance to learn and grow myself more through this opportunity.
 
@@ -24,8 +22,8 @@ Here are some ideas to get you started:
 
 ### 🔭 I'm Currently interested in
 
-- Computer Science, especially OS, Algorithms
 - Software Engineering
+- Computer Science, especially OS, Algorithms
 - Web Front-end / Back-end
 
 ### 📫 How to reach me
