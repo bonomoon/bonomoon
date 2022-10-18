@@ -16,15 +16,13 @@ Here are some ideas to get you started:
 
  Hi, there👋. Welcome to my Github. My name is Bong-oh, Moon from Republic of Korea. I am studying undergraduate of Software Engineering at Jeonbuk National University, Republic of Korea. I like to study overall software technology, framework and computer science.
  
- I was able to broaden my horizons and get various motifs by experiencing technologies and implementing services in many projects. I have been dealing with Mobile/Web Front-end (ex. React Native, React, Vue) and Back-end(ex. Spring) a lot these days, and I want to get a chance to learn and grow myself more through this opportunity.
-
 <!-- Currently, I'm interested in web or application development, especially front-end development such as React or React Native.  -->
 
 ### 🔭 I'm Currently interested in
 
-- Software Engineering
+- Software Engineering, especially Agile, Testing, Software architecture
 - Computer Science, especially OS, Algorithms
-- Web Front-end / Back-end
+- Blockchain
 
 ### 📫 How to reach me
 
