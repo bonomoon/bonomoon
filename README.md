@@ -34,5 +34,3 @@ Here are some ideas to get you started:
 ### 📫 How to reach me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bongohmoon@gmail.com)](mailto:bongohmoon@gmail.com)
-
-![](https://github-readme-stats.vercel.app/api?username=bonomoon&show_icons=true&hide_border=False)
