@@ -35,7 +35,4 @@ Here are some ideas to get you started:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bongohmoon@gmail.com)](mailto:bongohmoon@gmail.com)
 
-### 📃 My Public Github Stats  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbonomoon)](https://hits.seeyoufarm.com)
-
-
 ![](https://github-readme-stats.vercel.app/api?username=bonomoon&show_icons=true&hide_border=False)
