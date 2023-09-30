@@ -14,23 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- Hi, there👋. Welcome to my Github. I'm Bong-oh Moon from Republic of Korea. I am studying undergraduate of Software Engineering at Jeonbuk National University, Republic of Korea. I like to study overall software technology, framework and computer science.
+ Hi, there👋. Welcome to my Github.
  
+ I'm Bong-oh Moon from Republic of Korea. I graduated with a major in Software Engineering from Jeonbuk National University, Republic of Korea. I like to make software to help us in our life. Throughout my professional journey, I have been developing profound problem-solving skills across diverse fields and growing a passion for software innovations.
 <!-- Currently, I'm interested in web or application development, especially front-end development such as React or React Native.  -->
 
 ### 🔭 I'm Currently interested in
+> I conducted many other projects using vaious technical solutions.
+- Linux Kernel Analysis, System Programming, Concurrent Programming...
+- Backend Engineering; Spring Framework, Kotlin, MSA...
+- Software Engineering; Software Architecture, TDD, Software Development Process, etc...
 
-- Software Engineering, especially Agile, Testing, Software architecture
-- Computer Science, especially OS, Algorithms
-- Blockchain
 
-### ✨ I have experience with
-
-- Back-end : Spring MVC/Boot/Security/JPA, Node.js...
-- Web/Mobile Front-end : React Native, React, Vue...
-
-  > I conducted many other projects using vaious technical solutions.
 
 ### 📫 How to reach me
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bongohmoon@gmail.com)](mailto:bongohmoon@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bongohmoon@gmail.com)](mailto:bongohmoon@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bong-oh-moon/)
