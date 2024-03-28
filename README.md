@@ -16,16 +16,13 @@ Here are some ideas to get you started:
 
  Hi, there👋. Welcome to my Github.
  
- I'm Bong-oh Moon from Republic of Korea. I graduated with a major in Software Engineering from Jeonbuk National University, Republic of Korea. I like to make software to help us in our life. Throughout my professional journey, I have been developing profound problem-solving skills across diverse fields and growing a passion for software innovations.
-<!-- Currently, I'm interested in web or application development, especially front-end development such as React or React Native.  -->
+ I'm Bong-oh Moon, a passionate Software Engineer from Republic of Korea. 💻✨ I like to make software to help us in our life. Throughout my professional journey, I have been developing profound problem-solving skills across diverse fields and growing a passion for software innovations.
 
 ### 🔭 I'm Currently interested in
-> I conducted many other projects using vaious technical solutions.
-- Linux Kernel Analysis, System Programming, Concurrent Programming...
-- Backend Engineering; Spring Framework, Kotlin, JVM, MSA...
-- Software Engineering; Software Architecture, TDD, Software Development Process, etc...
 
-
+- Designing data-intensive appliciation
+- Clean code & architecture, system design...
+- Studying Linux kernel, JVM, system programming to understand the principles of computing system operation.
 
 ### 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bongohmoon@gmail.com)](mailto:bongohmoon@gmail.com)
