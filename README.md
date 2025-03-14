@@ -1,4 +1,5 @@
-### Bong-oh Moon, @bonomoon
+## Me, @bonomoon
+> Building a better world through code.
 <!--
 **bonomoon/bonomoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,17 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+The code is already changing the world. I'm just helping it along. 💻✨
 
- Hi, there👋. Welcome to my Github.
- 
- I'm Bong-oh Moon, a passionate Software Engineer from Republic of Korea. 💻✨ I like to make software to help us in our life. Throughout my professional journey, I have been developing profound problem-solving skills across diverse fields and growing a passion for software innovations.
+```python
+while problems_exist():
+    problem = find_next_challenge()
+    solution = apply_knowledge(problem)
 
-### 🔭 I'm Currently interested in
+    if not solution.is_optimal():
+        learn_new_skills()
+        solution = rethink_approach(problem)
+    
+    if we.are_slightly_better():
+        i.grow()
+```
 
-- Designing data-intensive appliciation
-- Clean code & architecture, system design...
-- Studying Linux kernel, JVM, system programming to understand the principles of computing system operation.
+### ⚡ **Current focus**
 
-### 📫 How to reach me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bongohmoon@gmail.com)](mailto:bongohmoon@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bong-oh-moon/)
+Building secure yet innovative financial systems that create better financial experiences for everyone.
